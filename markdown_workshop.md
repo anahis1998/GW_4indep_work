@@ -8,3 +8,5 @@
 #get lost 
 #But I really appreciate the effor in this workshop
 #Thanks Caroline and Marlon 
+
+#now Add another sentence to this new text file and add this change while amending previous #commit.
