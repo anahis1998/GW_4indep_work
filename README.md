@@ -21,3 +21,8 @@ organization of my project.
 Describe how would collaborators to contribute to this repository … Here
 is the description of how my research is going to contribute to the
 world.
+
+
+#I'm on step #12 On GitHub, edit the file generated in step 6 and save changes.
+#Editting this file
+#Now I'm going to save changes. 
